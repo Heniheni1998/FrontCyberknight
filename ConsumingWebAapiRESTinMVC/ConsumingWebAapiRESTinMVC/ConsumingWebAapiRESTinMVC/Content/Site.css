@@ -1,0 +1,109 @@
+﻿body {
+    margin-top: 63px;
+    height: 100%;
+}
+html {
+    padding: 0;
+    height: 100%;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.post {
+    --post-line-color: #ccc;
+    border: 1px solid #ccc;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    overflow: hidden;
+    background-color: rgba(255,255,255,0.8);
+    color: #878A8C;
+    position: relative;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+.btnCommments {
+    border-radius: 2px;
+    color: #878A8C;
+    opacity: 1;
+}
+
+ .btnCommments:hover {
+        opacity: 0.65;
+        cursor: pointer;
+    }
+
+.post-title {
+    font-size: 28px;
+    font-weight: bold;
+    opacity: 1;
+}
+
+.posturl, .postname {
+    color: black;
+}
+
+.subreddit-text {
+    font-weight: bold;
+}
+
+.post-text {
+    margin-top: 10px;
+}
+.votebox {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    font-size: 1em;
+}
+
+.votesection {
+    margin: 0px;
+    background-color: #ffffff;
+}
+
+.upvote, .downvote {
+    cursor: pointer;
+    border-radius: 2px solid;
+}
+
+    .upvote:hover {
+        color: green;
+    }
+
+    .downvote:hover {
+        color: red;
+    }
+
+.votecount {
+    font-weight: bold;
+}
+a {
+    padding-left: 5px;
+}
+
+/* some simple transitions to make the upvote and downvote
+buttons fade in as a visual cue for the user */
+
+.glyphicon {
+    opacity: 1;
+    transition: opacity .25s ease-in-out;
+    -moz-transition: opacity .25s ease-in-out;
+    -webkit-transition: opacity .25s ease-in-out;
+}
+
+    .glyphicon:hover {
+        opacity: 0.75;
+        cursor: pointer;
+    }

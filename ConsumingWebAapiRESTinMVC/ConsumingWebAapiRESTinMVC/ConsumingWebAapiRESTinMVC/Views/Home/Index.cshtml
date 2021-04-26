@@ -1,0 +1,51 @@
+﻿@model IEnumerable<ConsumingWebAapiRESTinMVC.Models.PostModel>
+
+@{
+    ViewBag.Title = "www.compilemode.com";
+}
+@foreach (var item in Model)
+{
+
+    <div class="row post">
+        <div class="col-md-1">
+            <ul>
+                <li class="list-group-item">
+                    <i class="glyphicon glyphicon-chevron-up"></i>
+                    <span class="label label-primary">@Html.DisplayFor(modelItem => item.voteCount)</span>
+                    <i class="glyphicon glyphicon-chevron-down"></i>
+                </li>
+            </ul>
+        </div>
+        <div class="col-md-11">
+            <span class="subreddit-info">
+                <span> . Posted by <a class="username"> @Html.ActionLink(item.userName, "PostsByUser", "home", new { name = item.userName }, null)</a></span>
+                <span> .@Html.DisplayFor(modelItem => item.duration) </span>
+            </span>
+            <hr />
+            <div class="post-title">
+                <a class="postname"> @Html.DisplayFor(modelItem => item.title) </a>
+            </div>
+            <div>
+                <p class="post-text">@Html.DisplayFor(modelItem => item.description) </p>
+            </div>
+            <hr />
+            <span>
+                <a class="btnCommments" role="button">
+                    <fa-icon [icon]="faComments"></fa-icon>
+                    Comments  @Html.DisplayFor(modelItem => item.commentCount)
+                </a>
+                <button class="login">
+                    @Html.ActionLink("Read Post", "PostsById", "home", new { id = item.id }, null)<
+                </button>
+            </span>
+        </div>
+    </div>
+    <button >
+        @Html.ActionLink("Edit Post", "Edit", "home", new { id = item.id }, null)<
+    </button>
+    <button>
+        @Html.ActionLink("Delete Post", "DeletePost", "home", new { id = item.id }, null)<
+    </button>
+
+}
+

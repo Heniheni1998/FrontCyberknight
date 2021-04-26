@@ -1,0 +1,182 @@
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\csc.exe
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\System.Collections.Immutable.dll
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\vbc.exe
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\VBCSCompiler.exe
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\VBCSCompiler.exe.config
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\ConsumingWebAapiRESTinMVC.dll.config
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\ConsumingWebAapiRESTinMVC.dll
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\ConsumingWebAapiRESTinMVC.pdb
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\Microsoft.Web.Infrastructure.dll
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Diagnostics.DiagnosticSource.dll
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Net.Http.dll
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Security.Cryptography.Algorithms.dll
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Security.Cryptography.Encoding.dll
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Security.Cryptography.Primitives.dll
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Security.Cryptography.X509Certificates.dll
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Helpers.dll
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Mvc.dll
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Razor.dll
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Webpages.Deployment.dll
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Webpages.dll
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Webpages.Razor.dll
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Diagnostics.DiagnosticSource.xml
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Razor.xml
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Webpages.xml
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Webpages.Deployment.xml
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Webpages.Razor.xml
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Helpers.xml
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Mvc.xml
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\obj\Debug\ConsumingWebAapiRESTinMVC.csprojResolveAssemblyReference.cache
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\obj\Debug\ConsumingWebAapiRESTinMVC.dll
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\obj\Debug\ConsumingWebAapiRESTinMVC.pdb
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\Newtonsoft.Json.dll
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\Newtonsoft.Json.xml
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Net.Http.Formatting.dll
+c:\users\vithal\documents\visual studio 2015\Projects\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Net.Http.Formatting.xml
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\ConsumingWebAapiRESTinMVC.dll.config
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\ConsumingWebAapiRESTinMVC.dll
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\ConsumingWebAapiRESTinMVC.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\Newtonsoft.Json.dll
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Net.Http.dll
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Net.Http.Formatting.dll
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Security.Cryptography.Algorithms.dll
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Security.Cryptography.Encoding.dll
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Security.Cryptography.Primitives.dll
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Security.Cryptography.X509Certificates.dll
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Helpers.dll
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Mvc.dll
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Razor.dll
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Webpages.Deployment.dll
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Webpages.dll
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Webpages.Razor.dll
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\Newtonsoft.Json.xml
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Net.Http.Formatting.xml
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Razor.xml
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Webpages.xml
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Webpages.Deployment.xml
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Webpages.Razor.xml
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Helpers.xml
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Mvc.xml
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\obj\Debug\ConsumingWebAapiRESTinMVC.csprojAssemblyReference.cache
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\obj\Debug\ConsumingWebAapiRESTinMVC.csproj.CoreCompileInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\obj\Debug\ConsumingWebAapiRESTinMVC.csproj.CopyComplete
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\obj\Debug\ConsumingWebAapiRESTinMVC.dll
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\obj\Debug\ConsumingWebAapiRESTinMVC.pdb
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\csc.exe
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\System.Collections.Immutable.dll
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\vbc.exe
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\VBCSCompiler.exe
+D:\Ecole\Ecole\Work\Cours .Net\Consommation WebService\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\VBCSCompiler.exe.config
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\csc.exe
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\System.Collections.Immutable.dll
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\vbc.exe
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\VBCSCompiler.exe
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\VBCSCompiler.exe.config
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\ConsumingWebAapiRESTinMVC.dll.config
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\ConsumingWebAapiRESTinMVC.dll
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\ConsumingWebAapiRESTinMVC.pdb
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\Newtonsoft.Json.dll
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Net.Http.dll
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Net.Http.Formatting.dll
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Security.Cryptography.Algorithms.dll
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Security.Cryptography.Encoding.dll
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Security.Cryptography.Primitives.dll
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Security.Cryptography.X509Certificates.dll
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Helpers.dll
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Mvc.dll
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Razor.dll
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Webpages.Deployment.dll
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Webpages.dll
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Webpages.Razor.dll
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\Newtonsoft.Json.xml
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Net.Http.Formatting.xml
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Razor.xml
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Webpages.xml
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Webpages.Deployment.xml
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Webpages.Razor.xml
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Helpers.xml
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Mvc.xml
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\obj\Debug\ConsumingWebAapiRESTinMVC.csprojAssemblyReference.cache
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\obj\Debug\ConsumingWebAapiRESTinMVC.csproj.CoreCompileInputs.cache
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\obj\Debug\ConsumingWebAapiRESTinMVC.csproj.CopyComplete
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\obj\Debug\ConsumingWebAapiRESTinMVC.dll
+D:\Ecole\Ecole\Work\Projet Integration\2021\4SAE4\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\obj\Debug\ConsumingWebAapiRESTinMVC.pdb
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\obj\Debug\ConsumingWebAapiRESTinMVC.csproj.CoreCompileInputs.cache
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\csc.exe
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\vbc.exe
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\ConsumingWebAapiRESTinMVC.dll.config
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\ConsumingWebAapiRESTinMVC.dll
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\ConsumingWebAapiRESTinMVC.pdb
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\Newtonsoft.Json.dll
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Net.Http.dll
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Net.Http.Formatting.dll
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Helpers.dll
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Mvc.dll
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Razor.dll
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Webpages.dll
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\Newtonsoft.Json.xml
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Net.Http.Formatting.xml
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Razor.xml
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Webpages.xml
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Helpers.xml
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\bin\System.Web.Mvc.xml
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\obj\Debug\ConsumingWebAapiRESTinMVC.csproj.CopyComplete
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\obj\Debug\ConsumingWebAapiRESTinMVC.dll
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\obj\Debug\ConsumingWebAapiRESTinMVC.pdb
+C:\Users\htc\source\repos\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\ConsumingWebAapiRESTinMVC\obj\Debug\ConsumingWebAapiRESTinMVC.csprojAssemblyReference.cache

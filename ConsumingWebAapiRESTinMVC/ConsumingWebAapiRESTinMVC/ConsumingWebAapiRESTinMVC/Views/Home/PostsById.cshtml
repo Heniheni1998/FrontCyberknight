@@ -1,0 +1,73 @@
+﻿@model ConsumingWebAapiRESTinMVC.Models.PostViewModel
+@{
+    ViewBag.Title = "PostsById";
+    var postId = Model.postModel.id;
+}
+
+<h2>PostsById</h2>
+
+<div class="row post">
+    <div class="col-md-1">
+        <ul>
+            <li class="list-group-item">
+                <i class="glyphicon glyphicon-chevron-up"></i>
+                <span class="label label-primary">@Html.DisplayFor(Model => Model.postModel.voteCount)</span>
+                <i class="glyphicon glyphicon-chevron-down"></i>
+            </li>
+        </ul>
+    </div>
+    <div class="col-md-11">
+        <span class="subreddit-info">
+            <span> . @Html.DisplayFor(Model => Model.postModel.userName)</span>
+            <span> .@Html.DisplayFor(Model => Model.postModel.duration)</span>
+        </span>
+        <hr />
+        <div class="post-title">
+            <a class="postname">@Html.DisplayFor(Model => Model.postModel.title)</a>
+        </div>
+        <div>
+            <p class="post-text">@Html.DisplayFor(Model => Model.postModel.description) </p>
+        </div>
+        <hr />
+        <span>
+            <a class="btnCommments" role="button">
+                <fa-icon [icon]="faComments"></fa-icon>
+                Comments @Html.DisplayFor(Model => Model.postModel.commentCount)
+            </a>
+            <button class="login" (click)="goToPost(post.id)">
+                Read Post
+            </button>
+        </span>
+    </div>
+</div>
+
+@{Html.RenderAction("CreateComment", "home", new { postId = Model.postModel.id });}
+
+
+
+
+@foreach (var item in Model.CommentPayloads)
+{
+
+
+    <div class="col-md-11">
+        <span class="subreddit-info">
+            <span> .@Html.DisplayFor(modelItem => item.createdDate) </span>
+        </span>
+        <hr />
+        <div class="post-title">
+            <a class="postname"> @Html.DisplayFor(modelItem => item.text) </a>
+        </div>
+        <div>
+            <p class="post-text">@Html.DisplayFor(modelItem => item.userName) </p>
+        </div>
+        <hr />
+        <button>
+            @Html.ActionLink("Delete Comment", "DeleteComment", "home", new { id = item.id }, null)<
+        </button>
+    </div>
+
+
+}
+
+
